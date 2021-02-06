@@ -34,6 +34,19 @@ a:visited {
  color: #daad86;
 }
 
+header {
+    padding: 0.25em 0;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 0 0 0.5em;
+}
+
 a:hover {
  background-color: #FFFFCC;
 }
