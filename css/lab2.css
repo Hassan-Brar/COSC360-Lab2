@@ -3,4 +3,9 @@ header, footer{
  background-color: #daad86;
  margin: 0em 4em 0.5em 4em;
  }
+body {
+ font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+ font-size: 100%;
+ background-color: #98dafc
+}
 
