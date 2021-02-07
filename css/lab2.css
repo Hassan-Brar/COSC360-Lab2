@@ -3,6 +3,7 @@ header, footer{
  background-color: #312c32;
  margin: 0em 4em 0.5em 4em;
  }
+
 body {
  font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
  font-size: 100%;
@@ -46,5 +47,13 @@ header ul li {
     display: inline;
     margin: 0 0 0 0.5em;
 }
+
+.contatiner {
+ background-color: white;
+ margin: 0 4em 0.5em 4em;
+ paddings: 0.5em;
+}
+
+
 
 
