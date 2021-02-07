@@ -43,14 +43,21 @@ header ul li {
     margin: 0 0 0 0.5em;
 }
 
-.contatiner {
- background-color: white;
- margin: 0 4em 0.5em 4em;
- paddings: 0.5em;
+img:hover{
+color:#98dafc;
 }
 
-.description {
- margin: 0 0 2em;
+figure img{
+border: 0.1em solid #ddd;
+padding: 0.25em;
+margin:0em 0em 0em 0.5em;
+background:white;
+position:relative;
+top:50%;
+left:0%;
+margin-right:-50%;
+width:97.5%;
+height:auto;
 }
 
 
