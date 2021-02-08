@@ -34,11 +34,17 @@ a:hover {
  background-color: #FFFFCC;
 }
 
-#container {
+.container {
  display: block;
  background-color: white;
  margin: 1em 4em 1em 4em;
  padding: 0.5rem;	
+}
+
+main {
+ background-color: white;
+ margin: 0em 4em 0.5em 4em;
+ padding: 0.5em;
 }
 
 header{
