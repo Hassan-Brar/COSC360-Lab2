@@ -70,3 +70,8 @@ height:auto;
  padding: 0.25em;
 }
 
+.byline {
+	border-top:1px solid black;
+	color:teal;
+	font-style:italic;
+}
