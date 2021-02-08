@@ -75,7 +75,14 @@ height:auto;
 }
 
 .byline{
- color: #808080
+ color: #808080;
  font-style: italic;
+}
+
+.gradient{
+ width: 100%;
+ height: 50px;
+ border: 1px solid gray;
+ border-radius: 5px;
 }
 
