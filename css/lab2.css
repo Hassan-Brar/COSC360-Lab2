@@ -56,7 +56,7 @@ position:relative;
 top:50%;
 left:0%;
 margin-right:-50%;
-width:auto;
+width:98%;
 height:auto;
 }
 
@@ -75,3 +75,13 @@ height:auto;
 	color:teal;
 	font-style:italic;
 }
+.gradient {
+	background-image:url(../images/gray-gradient.png);
+	background-repeat:repeat;
+	height:50px;
+	border-style:solid;
+	border-radius: 0.5em;
+	padding-left:10px;
+	
+}
+
