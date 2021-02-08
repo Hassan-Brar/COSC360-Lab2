@@ -34,6 +34,13 @@ a:hover {
  background-color: #FFFFCC;
 }
 
+.container {
+ display: block;
+ background-color: white;
+ margin: 1em 4em 1em 4em;
+ padding: 0.5rem;	
+}
+
 header{
  padding: 0.25em 0;
 }
@@ -75,13 +82,5 @@ height:auto;
 	color:teal;
 	font-style:italic;
 }
-.gradient {
-	background-image:url(../images/gray-gradient.png);
-	background-repeat:repeat;
-	height:50px;
-	border-style:solid;
-	border-radius: 0.5em;
-	padding-left:10px;
-	
-}
+
 
