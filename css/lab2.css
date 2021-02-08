@@ -74,5 +74,8 @@ height:auto;
  padding: 0.25em;
 }
 
-
+.byline{
+ color: #808080
+ font-style: italic;
+}
 
