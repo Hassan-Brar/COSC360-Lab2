@@ -34,7 +34,7 @@ a:hover {
  background-color: #FFFFCC;
 }
 
- .container {
+#container {
  display: block;
  background-color: white;
  margin: 1em 4em 1em 4em;
