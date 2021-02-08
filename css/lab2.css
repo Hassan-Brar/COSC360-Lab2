@@ -80,10 +80,10 @@ height:auto;
 }
 
 .gradient{
- width: 100%;
  height: 50px;
- border: 1px solid black;
- border-radius: 5px;
- color: #808080;
+ border-radius: 8px;
+ background-repeat: repeat;
+ width: 98%;
+ margin: auto;
 }
 
