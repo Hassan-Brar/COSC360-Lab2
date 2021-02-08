@@ -58,7 +58,6 @@ figure img{
 border: black 1px solid;
 padding: 0.25em;
 margin: auto;
-background:white;
 position:relative;
 top:50%;
 left:0%;
@@ -68,12 +67,10 @@ height:auto;
 }
 
 #desc {
- background:white;
  padding: 0.25em;
 }
 
 #photo {
- background: white;
  padding: 0.25em;
 }
 
