@@ -80,10 +80,12 @@ height:auto;
 }
 
 .gradient{
- height: 50px;
- border-radius: 8px;
- background-repeat: repeat;
- width: 98%;
- margin: auto;
+ background-repeat: repeat-x;
+ background-image:url(../images/gray-gradient.png);
+ background-color:#98dafc;
+ height:40px;
+ background-size:2em;
+ border-radius: .25em;
+ background-image: linear-gradient(180deg, grey, white);
 }
 
