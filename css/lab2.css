@@ -56,9 +56,13 @@ position:relative;
 top:50%;
 left:0%;
 margin-right:-50%;
-width:98%;
+width:auto;
 height:auto;
 }
 
+#desc {
+ background:white;
+ padding: 0.25em;
+}
 
 
